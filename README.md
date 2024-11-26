@@ -3,7 +3,7 @@ Get  a detailed Excel file of your Profit and Loss Ratio.
 
 ## How much it cost?
 
-Price : 10 sol
+Price : 10 SOL
 
 ## What you get?
 You get all three versions. Automatic, Manual , and Telegram Version Optimised with Dune ApI ( SOL, ETH, BSC).

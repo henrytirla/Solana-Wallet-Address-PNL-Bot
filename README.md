@@ -1,6 +1,8 @@
 # Solana-Wallet-Address-PNL-Bot
 Get  a detailed Excel file of your Profit and Loss Ratio.  
 
+## How much it cost?
+
 Price : 10 sol
 
 ## Generated reports 

@@ -5,6 +5,8 @@ Get  a detailed Excel file of your Profit and Loss Ratio.
 
 Price : 10 SOL
 
+NB: If you bought the earlier version you can upgrade for 2.5sol. Make sure to confirm with proof of your first payment
+
 ## What you get?
 You get all three versions. Automatic, Manual , and Telegram Version + DuneSQL queries Optimised with Dune ApI ( SOL, ETH, BSC).
 

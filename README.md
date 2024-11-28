@@ -3,7 +3,8 @@ Get  a detailed Excel file of your Profit and Loss Ratio.
 
 ## How much it cost?
 
-Price : 10 SOL
+Price : 10 SOL For Personal use.
+Price:  25 SOL For commercial use.
 
 NB: If you bought the earlier version you can upgrade for 2.5sol. Make sure to confirm with proof of your first payment
 

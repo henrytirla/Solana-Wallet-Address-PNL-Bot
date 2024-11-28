@@ -16,7 +16,7 @@ https://drive.google.com/drive/folders/15INgNO8p9A30Ma5gaKzVlz8ZytV8Jmom
 ## How it works -Video
 [Solana Wallet Address PNL Bot](https://www.youtube.com/watch?v=C4f4RA-mLbc&t=166s&ab_channel=HenryTirla)
 
-# Trial
+## Trial
 
 Get your **PNL** by using [DexPNL Bot](https://t.me/dexpnl_bot). 
 

@@ -1,5 +1,5 @@
 # Solana-Wallet-Address-PNL-Bot
-Get  a detailed Excel file of your Profit and Loss Ratio for your Solana Wallet Address.
+Get  a detailed Excel file of your Profit and Loss Ratio for your Solana Wallet Address. Check out DEXPNL repo for optimized version using DuneSQL API
 
 
 ## Generated reports 
